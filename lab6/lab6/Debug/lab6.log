@@ -1,0 +1,9 @@
+﻿  lab6.cpp
+C:\Users\KriSWhitch\Documents\GitHub\Computer-systems-and-networks-2020Q3-4\lab6\lab6\lab6.cpp(12,12): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\KriSWhitch\Documents\GitHub\Computer-systems-and-networks-2020Q3-4\lab6\lab6\lab6.cpp(121,14): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+C:\Users\KriSWhitch\Documents\GitHub\Computer-systems-and-networks-2020Q3-4\lab6\lab6\lab6.cpp(122,18): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+C:\Users\KriSWhitch\Documents\GitHub\Computer-systems-and-networks-2020Q3-4\lab6\lab6\lab6.cpp(143,18): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+C:\Users\KriSWhitch\Documents\GitHub\Computer-systems-and-networks-2020Q3-4\lab6\lab6\lab6.cpp(144,22): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+C:\Users\KriSWhitch\Documents\GitHub\Computer-systems-and-networks-2020Q3-4\lab6\lab6\lab6.cpp(165,19): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+C:\Users\KriSWhitch\Documents\GitHub\Computer-systems-and-networks-2020Q3-4\lab6\lab6\lab6.cpp(166,13): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+  lab6.vcxproj -> C:\Users\KriSWhitch\Documents\GitHub\Computer-systems-and-networks-2020Q3-4\lab6\Debug\lab6.exe
