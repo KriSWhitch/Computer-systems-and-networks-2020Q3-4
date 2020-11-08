@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab5": {
+      "commandName": "Project",
+      "commandLineArgs": "google.com"
+    }
+  }
+}
